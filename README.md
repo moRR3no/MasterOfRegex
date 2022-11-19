@@ -10,11 +10,11 @@ This repo contains few finished regex tasks.
 
 In this module I've started my journey with REGEX. There are some notes and also my code lines made during Tim Buchalka's course.
 
-### W3Resources
+### #2 W3Resources
 Finished tasks from site:
 ```https://www.w3resource.com/java-exercises/re/index.php```
 
-### SDAChallenges
+### #3 SDAChallenges
 Here I've done tasks provided by bootcamp teacher.
 
 
