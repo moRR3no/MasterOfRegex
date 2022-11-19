@@ -1,0 +1,9 @@
+1.Słowo może zaczynać się z wielkich liter A, B, C, kończy się „apa”.
+2.Słowo zaczyna się od wielkiej litery z wyjątkiem A, następnie występują minimalnie 4 małe litery ale nie więcej niż 7, kończy się dwoma cyframi z zakresu 0-5.
+3.Sprawdź czy użytkownik podał poprawne imię.
+4.Sprawdź czy użytkownik podał poprawnie adres e-mail.
+5.Sprawdź czy format daty podany przez użytkownika jest prawidłowy.
+6.Sprawdź czy liczba zmiennoprzecinkowa podana przez użytkownika ma poprawny format.
+7.Sprawdź czy numer domu jest w formacie numer\numer. Poprawnym numerem jest 12, 415, 123\2A, 24B\3 czy 12\5, ale numerem nie jest abc lub 12\A.
+8.*Sprawdź czy liczba jest mniejsza bądź równa 31, ale większa niż zero.
+9.*Sprawdź czy liczba jest mniejsza bądź równa 118, ale nie może mieć cyfry 3 na pozycji dziesiętnych oraz nie może mieć cyfry 5 na pozycji jedności, i nie równa się 59.
